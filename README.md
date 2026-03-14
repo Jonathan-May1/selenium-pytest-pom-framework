@@ -19,4 +19,3 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 pytest
-“Developed enterprise Selenium 4 + Pytest Page Object Model framework with GitHub Actions CI/CD, Allure reporting, and data-driven tests for vehicle software, wireless, and networking UI validation — cross-browser execution with 100% pass rate”
