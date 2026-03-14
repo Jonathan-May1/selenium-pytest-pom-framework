@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Test reports (never commit)
+allure-results/
+report.html
+
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
